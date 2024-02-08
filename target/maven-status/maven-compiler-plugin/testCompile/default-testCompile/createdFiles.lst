@@ -1,0 +1,10 @@
+com\alea\tests\Create_Client.class
+com\alea\util\HandlerUtil.class
+com\alea\pages\LogInPage.class
+com\alea\pages\HomePage.class
+com\alea\pages\ClientPage.class
+com\alea\util\PropertiesUtil.class
+com\alea\base\BaseTest.class
+com\alea\base\PageBase.class
+com\alea\tests\Log_In_Test.class
+com\alea\tests\VerifyValidations.class
